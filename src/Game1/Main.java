@@ -14,7 +14,7 @@ public class Main
 		GPanel gPanel = new GPanel();
 		windowFrame.add(gPanel);
 		
-		windowFrame.pack();
+		windowFrame.pack(); // adding comment
 		
 		windowFrame.setLocationRelativeTo(null);
 		windowFrame.setVisible(true);
